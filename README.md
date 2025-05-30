@@ -18,10 +18,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Martik2002&theme=default" alt="GitHub Profile Grade" />
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
