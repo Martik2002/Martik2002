@@ -7,14 +7,19 @@
 
 ### 📊 GitHub Stats
 
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Martik2002&theme=default&border_radius=5" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Martik2002&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Martik2002&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
-  </a>
-  <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Martik2002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Martik2002&theme=default" alt="GitHub Profile Grade" />
 </p>
 
 ---
@@ -40,14 +45,6 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-
----
-
-### 📫 Contact
-
-📧 Email: `martik@example.com`  
-🌐 Website: [Coming Soon...]  
-💼 LinkedIn / Portfolio links կարող ենք ավելացնել ցանկության դեպքում
 
 ---
 
