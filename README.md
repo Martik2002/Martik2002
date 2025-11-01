@@ -10,10 +10,10 @@
 <table>
   <tr>
     <td>
-        <img src="https://streak-stats.demolab.com?user=Martik2002&theme=merko&border_radius=5" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=Martik2002&theme=default&border_radius=5" alt="GitHub Streak" />
     </td>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Martik2002&show_icons=true&theme=merko&hide_border=false" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Martik2002&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
