@@ -71,22 +71,20 @@
 <table align="center">
   <tr>
     <td align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Martik2002&show_icons=true&theme=github&hide_border=true" height="200" alt="stats graph" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Martik2002&show_icons=true&theme=github&hide_border=true" height="200" alt="stats graph" />
     </td>
     <td align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Martik2002&layout=compact&theme=github&hide_border=true" height="200" alt="languages graph" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Martik2002&layout=compact&theme=github&hide_border=true" height="200" alt="languages graph" />
     </td>
   </tr>
 </table>
 <table align="center">
   <tr>
     <td align="center">
-         <img src="https://streak-stats.demolab.com?user=Martik2002&theme=github&hide_border=true" height="200" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=Martik2002&theme=github&hide_border=true" height="200" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
-
-
 ---
 
 <p align="center">
