@@ -2,7 +2,7 @@
 <h3 align="center">⚙️ Backend .NET Developer</h3>
 
 <p align="center">
-  Backend developer with <strong>3+ years of experience</strong> building scalable APIs and services in the <strong>.NET ecosystem</strong>.<br>
+  Backend developer with <strong>4+ years of experience</strong> building scalable APIs and services in the <strong>.NET ecosystem</strong>.<br>
   I focus on clean architecture, SQL performance, real-time systems and reliable integrations.
 </p>
 
