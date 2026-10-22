@@ -61,8 +61,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Martik2002&theme=github&hide_border=true" height="170" alt="GitHub contributions and streak" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Martik2002&layout=compact&theme=github&hide_border=true&exclude_repo=CleanMicroservicesArchitecture,AdvertisingCompany,flutter_project&hide=html,css,scss,dart,javascript,bicep" height="170" alt="Top languages" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Martik2002&bg_color=ffffff&color=1f2937&title_color=1f2937&line=4f46e5&point=1e1b4b&area=true&area_color=4f46e5&hide_border=true&custom_title=Contributions%20in%20the%20last%2030%20days" alt="Contribution activity graph" />
 </p>
 
 ---
