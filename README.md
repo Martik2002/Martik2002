@@ -1,6 +1,5 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:7c3aed&height=200&section=header&text=Martik%20Avagyan&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Backend%20.NET%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Martik Avagyan, Backend .NET Developer" />
-</p>
+<h1 align="center">Martik Avagyan</h1>
+<h3 align="center">⚙️ Backend .NET Developer</h3>
 
 <p align="center">
   Backend developer with <strong>4+ years of experience</strong> building scalable APIs and services in the <strong>.NET ecosystem</strong>.<br>
@@ -81,17 +80,12 @@
 
 ## 📊 GitHub Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Martik2002&bg_color=0d1117&color=e6edf3&title_color=e6edf3&line=818cf8&point=c7d2fe&area=true&area_color=818cf8&hide_border=true&custom_title=Contributions%20in%20the%20last%2030%20days" />
+<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Martik2002&bg_color=ffffff&color=1f2937&title_color=1f2937&line=4f46e5&point=1e1b4b&area=true&area_color=4f46e5&hide_border=true&custom_title=Contributions%20in%20the%20last%2030%20days" alt="Contribution activity graph" />
-</picture>
+</p>
 
 <br>
 
 <p align="center">
   <i>"Simplicity is the soul of efficiency."</i>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:7c3aed&height=110&section=footer" alt="" />
 </p>
