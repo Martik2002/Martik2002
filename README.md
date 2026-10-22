@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Martik2002">
-    <img src="https://komarev.com/ghpvc/?username=Martik2002&style=for-the-badge&color=blue&label=Profile+views" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Martik2002&style=flat-square&color=blue" alt="Profile views" />
   </a>
 </p>
 
@@ -58,15 +58,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Martik2002&show_icons=true&theme=github&hide_border=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Martik2002&layout=compact&theme=github&hide_border=true&hide=html,css,scss,dart,javascript" height="170" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Martik2002&theme=github&hide_border=true" height="170" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Martik2002&theme=github&hide_border=true" height="170" alt="GitHub contributions and streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Martik2002&layout=compact&theme=github&hide_border=true&exclude_repo=CleanMicroservicesArchitecture,AdvertisingCompany,flutter_project&hide=html,css,scss,dart,javascript,bicep" height="170" alt="Top languages" />
 </p>
 
 ---
