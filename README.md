@@ -58,19 +58,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Martik2002&show_icons=true&theme=github&hide_border=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Martik2002&layout=compact&theme=github&hide_border=true&hide=html,css,scss,dart,javascript" height="170" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Martik2002&theme=github&hide_border=true" height="170" alt="GitHub streak" />
-</p>
-
----
-
 <p align="center">
   <i>"Simplicity is the soul of efficiency."</i>
 </p>
